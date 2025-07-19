@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+openpyxl
+pytesseract
+PyMuPDF
+selenium
